@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AndroidStudioPractice</string>
+
+    <string name="navDrawerOpen">Open navigation drawer.</string>
+    <string name="navDrawerClose">Close navigation drawer.</string>
+
     <string name="action_settings">Settings</string>
 </resources>
